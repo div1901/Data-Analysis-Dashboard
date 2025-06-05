@@ -28,3 +28,5 @@ Identified high-performing product categories for targeted marketing.
 Found seasonal trends useful for inventory and campaign planning.
 Improved business understanding of regional performance.
 
+Dashboard: https://github.com/div1901/Data-Analysis-Dashboard/blob/main/MY%20PROJECT.pbix
+Images: Contains screenshots of the dashboard for easy preview.
