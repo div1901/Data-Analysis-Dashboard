@@ -1,2 +1,30 @@
 # Data-Analysis-Dashboard
-Power Bi Project : Sale Analysis of Amazon Products Hello everyone, I am excited to share with you my project on Amazon Sales Data Analysis! In this project I have use data visualization tools like Microsoft Excel and Power BI. 
+Power Bi Project : Sale Analysis of Amazon Products.
+Project Description:
+This project involved creatingan interactive and insightful Power BI dashboard to analyze sales performance data for Amazon Products. The primary objectives was to help stakeholders understand key sales trends, customer behaviour,and product performance across categories region.
+
+Objectives:
+Track overall and categorywise sales performance.
+Analyze regional and seasonal sales trends.
+Identify best selling products and underperforming items.
+Understand customer perference and purchase patterns.
+
+Tools:
+Power BI desktop for data modeling and visualization.
+Power Query for data cleaning.
+DAX for calculated measures and KPIs.
+Slicer and Filters for interactivity.
+
+Key Insights:
+sales overview: Total sales,Profit,Orders and Quantity KPIs.
+Category and Sub-category Performance.
+Monthly Sales Trends.
+Regional sales Map.
+Top 10 Products.
+
+Outcomes:
+Enabled stakeholders to make data-driven decisions.
+Identified high-performing product categories for targeted marketing.
+Found seasonal trends useful for inventory and campaign planning.
+Improved business understanding of regional performance.
+
