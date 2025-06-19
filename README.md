@@ -1,5 +1,5 @@
-# Data-Analysis-Dashboard
-Power Bi Project : Sale Analysis of Amazon Products.
+# Power BI Project
+Power BI Project : Sale Analysis of Amazon Products.
 Project Description:
 This project involved creatingan interactive and insightful Power BI dashboard to analyze sales performance data for Amazon Products. The primary objectives was to help stakeholders understand key sales trends, customer behaviour,and product performance across categories region.
 
